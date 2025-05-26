@@ -11,7 +11,7 @@ Usage:
     python eta.py <current_count> <total_count> <start_time> <current_time>
 
 Example:
-    python eta.py 65 474 "2025-05-26 17:32:55,745" "2025/05/26 18:29pm"
+    python eta.py 65 474 "2025-05-26 17:32:55,745" "2025/05/26 18:29"
 
 If no arguments are provided, the script will prompt you interactively.
 
